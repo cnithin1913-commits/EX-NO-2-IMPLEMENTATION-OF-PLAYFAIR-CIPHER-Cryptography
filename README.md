@@ -1,6 +1,6 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
-
- 
+# NAME: NITHIN BILGATES C
+# REGISTER NO: 2305001022
 
 ## AIM:
  
@@ -115,6 +115,7 @@ int main() {
 
 ## Output:
 
+<img width="502" height="137" alt="image" src="https://github.com/user-attachments/assets/5385bd4e-c705-45e1-b123-0ba250e04271" />
 
 
 ## Result:
